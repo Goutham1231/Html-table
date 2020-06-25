@@ -24,7 +24,7 @@ th, td {
       <tr>
         <td><center>Goutham<center></td>
         <td><center>Html and Css</center></td>
-        <td><center>20</center></td>
+        <td><center>21</center></td>
       </tr>
       <tr>
         <td><center>Pavan</center></td>
